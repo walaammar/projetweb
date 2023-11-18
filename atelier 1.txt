@@ -1,0 +1,23 @@
+<html>
+<head>
+<meta charset="UTF8">
+<title>HTML</title>
+A props 
+Nos projets
+</head>
+<body>
+<-->
+ <header>
+ <img src="images/wala.jpeg"width="400" height="200">
+  <hr>
+ <nave>
+
+<a href="atelier 1" target"-blank">Acceuil </a> ||
+<a href="servises">Projets</a> 
+<a href="Inscription">Projets</a> 
+ </nave>
+  <hr>
+  </header>
+</body>
+
+</html>
